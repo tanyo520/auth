@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  authflow:
+    build:
+      context: E:\opensource\auth\demo\authFlow
+      dockerfile: authFlow\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: authflow
+    ports:
+    - 80/tcp
+version: '3.0'

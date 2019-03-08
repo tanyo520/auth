@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  authflow:
+    image: authflow
+    build:
+      context: .
+      dockerfile: authFlow\Dockerfile

@@ -1,0 +1,11 @@
+E:\opensource\auth\demo\authFlow\authFlow\bin\Debug\netcoreapp2.0\authFlow.deps.json
+E:\opensource\auth\demo\authFlow\authFlow\bin\Debug\netcoreapp2.0\authFlow.runtimeconfig.json
+E:\opensource\auth\demo\authFlow\authFlow\bin\Debug\netcoreapp2.0\authFlow.runtimeconfig.dev.json
+E:\opensource\auth\demo\authFlow\authFlow\bin\Debug\netcoreapp2.0\authFlow.dll
+E:\opensource\auth\demo\authFlow\authFlow\bin\Debug\netcoreapp2.0\authFlow.pdb
+E:\opensource\auth\demo\authFlow\authFlow\obj\Debug\netcoreapp2.0\authFlow.csprojResolveAssemblyReference.cache
+E:\opensource\auth\demo\authFlow\authFlow\obj\Debug\netcoreapp2.0\authFlow.csproj.CoreCompileInputs.cache
+E:\opensource\auth\demo\authFlow\authFlow\obj\Debug\netcoreapp2.0\authFlow.AssemblyInfoInputs.cache
+E:\opensource\auth\demo\authFlow\authFlow\obj\Debug\netcoreapp2.0\authFlow.AssemblyInfo.cs
+E:\opensource\auth\demo\authFlow\authFlow\obj\Debug\netcoreapp2.0\authFlow.dll
+E:\opensource\auth\demo\authFlow\authFlow\obj\Debug\netcoreapp2.0\authFlow.pdb
